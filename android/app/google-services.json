@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312362071785",
+    "project_id": "chat-23a62",
+    "storage_bucket": "chat-23a62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312362071785:android:19e9400e9af13aeaa96278",
+        "android_client_info": {
+          "package_name": "com.nabik.baburam.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312362071785-vmlf9245430ff6t7cfs7m0c3ap42qu0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Xesni4xPaQ599zW6BQna487zYKy5wjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312362071785-vmlf9245430ff6t7cfs7m0c3ap42qu0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
