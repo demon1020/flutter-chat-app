@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+A simple flutter/firebase app which beautiful and interactive UI which allows the 2 users to chat with each other and share text messages.
 
 ## Getting Started
 
